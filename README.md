@@ -66,4 +66,15 @@ Moreover, mt-platform is fully open source and transparent.
             <td>TBD</td>
         </tr>
     </tbody>
+        <tbody>
+        <tr>
+            <td rowspan=4>Azure</td>
+            <td rowspan=2>AKS</td>
+            <td>TBD</td>
+            <td>TBD</td>
+            <td>TBD</td>
+            <td>TBD</td>
+            <td>TBD</td>
+        </tr>
+    </tbody>
 </table>
