@@ -32,7 +32,7 @@ Moreover, mt-platform is fully open source and transparent.
     <tbody>
         <tr>
             <td rowspan=4>AWS</td>
-            <td rowspan=2>ECS</td>
+            <td rowspan=2>ECS (Fargate and EC2)</td>
             <td><a href="https://github.com/microservices-today/ecs-iac/releases/tag/3.0.2">ecs-iac v3.0.2</a></td>
             <td><a href="https://github.com/microservices-today/ecs-cicd/releases/tag/2.1.0">ecs-cicd v2.1.0</a></td>
             <td><a href="https://github.com/microservices-today/ecs-api/releases/tag/1.0.1">ecs-api v1.0.1</a></td>
