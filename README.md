@@ -1,9 +1,11 @@
 # mt-platform
 
 <img src="https://github.com/microservices-today/microservices-today.github.io/blob/master/source/images/logo.png?raw=true" width="100">
-----
 
-## Introduction
+---
+
+Our mission is to provide a simple but robust mechanisms for deployment, maintenance, and scaling of your microservices in any cloud service provider by utilizing best practices.
+
 One of the major trends in cloud service platform over the past few years has been increased automation and a concurrent decrease in the need for human or manual intervention. Many Engineering teams still rely on manual configurations, custom scripts, golden images or outdated tools to manage infrastructure, resulting in errors and slow deployments. Organizations looking for faster deployments treat infrastructure like software: as code that can be managed with the same tools and processes software developers use, such as version control, continuous integration, code review and automated testing.
 
 Using mt-platform to describe your infrastructure lets you make infrastructure changes more easily, rapidly, safely and reliably.
@@ -11,11 +13,9 @@ It based on IaC (Infrastructure as Code) that helps you model and setup a comple
 
 Moreover, mt-platform is fully open source and transparent.
 
-## Mission
-Provide a simple but robust mechanisms for deployment, maintenance, and scaling of your microservices in any cloud service provider.
+---
 
 ## Dependency matrix
-----
 
 <table>
     <thead>
