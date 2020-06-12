@@ -15,7 +15,7 @@ Moreover, NGP is fully open source and transparent.
 
 ---
 
-## Dependency matrix
+## Roadmap
 
 <table>
     <thead>
