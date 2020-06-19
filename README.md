@@ -24,8 +24,7 @@ Moreover, NGP is fully open source and transparent.
             <th>Orchestration</th>
             <th>IaC</th>
             <th>CICD</th>
-            <th>API</th>
-            <th>Web</th>
+            <th>API/Web</th>
             <th>Queue</th>
         </tr>
     </thead>
@@ -36,14 +35,12 @@ Moreover, NGP is fully open source and transparent.
             <td>EC2 only: <a href="https://github.com/microservices-today/ecs-iac/releases/tag/3.0.2">ecs-iac v3.0.2</a></td>
             <td><a href="https://github.com/microservices-today/ecs-cicd/releases/tag/2.1.0">ecs-cicd v2.1.0</a></td>
             <td><a href="https://github.com/microservices-today/ecs-api/releases/tag/1.0.1">ecs-api v1.0.1</a></td>
-            <td><a href="https://github.com/microservices-today/ecs-web/releases/tag/1.0.0">ecs-web v1.0.0</a></td>
             <td><a href="https://github.com/microservices-today/ecs-mq/releases/tag/1.0.0">ecs-mq v1.0.0</a></td>
         </tr>
         <tr>
             <td>+Fargate: <a href="https://github.com/microservices-today/ecs-iac/tree/3.0.4">ecs-iac v3.0.4</a></td>
             <td><a href="https://github.com/microservices-today/ecs-cicd/tree/3.0.1">ecs-cicd v3.0.1</a></td>
             <td><a href="https://github.com/microservices-today/ecs-api/releases/tag/2.0.0">ecs-api v2.0.0</a></td>
-            <td><a href="https://github.com/microservices-today/ecs-web/releases/tag/2.0.0">ecs-web v2.0.0(WIP)</a></td>
             <td><a href="https://github.com/microservices-today/ecs-mq/releases/tag/2.0.0">ecs-mq v2.0.0</a></td>
         </tr>
         <tr>
