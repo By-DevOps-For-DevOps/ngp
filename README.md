@@ -40,8 +40,8 @@ Moreover, NGP is fully open source and transparent.
             <td><a href="https://github.com/microservices-today/ecs-mq/releases/tag/1.0.0">ecs-mq v1.0.0</a></td>
         </tr>
         <tr>
-            <td>+Fargate: <a href="https://github.com/microservices-today/ecs-iac/releases/tag/3.0.4">ecs-iac v3.0.4</a></td>
-            <td><a href="https://github.com/microservices-today/ecs-cicd/releases/tag/3.0.1">ecs-cicd v3.0.1</a></td>
+            <td>+Fargate: <a href="https://github.com/microservices-today/ecs-iac/tree/3.0.4">ecs-iac v3.0.4</a></td>
+            <td><a href="https://github.com/microservices-today/ecs-cicd/tree/3.0.1">ecs-cicd v3.0.1</a></td>
             <td><a href="https://github.com/microservices-today/ecs-api/releases/tag/2.0.0">ecs-api v2.0.0</a></td>
             <td><a href="https://github.com/microservices-today/ecs-web/releases/tag/2.0.0">ecs-web v2.0.0(WIP)</a></td>
             <td><a href="https://github.com/microservices-today/ecs-mq/releases/tag/2.0.0">ecs-mq v2.0.0</a></td>
