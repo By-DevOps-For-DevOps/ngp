@@ -36,14 +36,14 @@ Moreover, NGP is fully open source and transparent.
         <tr>
             <td rowspan=4>AWS</td>
             <td rowspan=2>ECS</td>
-            <td>EC2: <a href="https://github.com/microservices-today/ecs-iac/releases/tag/3.0.2">ecs-iac v3.0.2</a></td>
+            <td><a href="https://github.com/microservices-today/ecs-iac/releases/tag/3.0.2">ecs-iac v3.0.2</a>(EC2)</td>
             <td><a href="https://github.com/microservices-today/ecs-cicd/releases/tag/2.1.0">ecs-cicd v2.1.0</a></td>
             <td><a href="https://github.com/microservices-today/ecs-api/tree/1.0.1">ecs-api v1.0.1</a></td>
             <td><a href="https://github.com/microservices-today/ecs-mq/releases/tag/1.0.0">ecs-mq v1.0.0</a></td>
             <td><a href="https://github.com/microservices-today/ecs-job/releases/tag/1.0.0">ecs-job v1.0.0</a></td>
         </tr>
         <tr>
-            <td>Fargate: <a href="https://github.com/microservices-today/ecs-iac/tree/3.0.4">ecs-iac v3.0.4</a></td>
+            <td><a href="https://github.com/microservices-today/ecs-iac/tree/3.0.4">ecs-iac v3.0.4</a>(Fargate)</td>
             <td><a href="https://github.com/microservices-today/ecs-cicd/tree/3.0.1">ecs-cicd v3.0.1</a></td>
             <td><a href="https://github.com/microservices-today/ecs-api/tree/2.0.1">ecs-api v2.0.1</a></td>
             <td><a href="https://github.com/microservices-today/ecs-mq/tree/2.0.1">ecs-mq v2.0.1</a></td>
