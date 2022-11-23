@@ -9,7 +9,7 @@ Our mission is to provide a simple but robust mechanisms for deployment, mainten
 One of the major trends in cloud service platform over the past few years has been increased automation and a concurrent decrease in the need for human or manual intervention. Many Engineering teams still rely on manual configurations, custom scripts, golden images or outdated tools to manage infrastructure, resulting in errors and slow deployments. Organizations looking for faster deployments treat infrastructure like software: as code that can be managed with the same tools and processes software developers use, such as version control, continuous integration, code review and automated testing.
 
 Using NGP to describe your infrastructure lets you make infrastructure changes more easily, rapidly, safely and reliably.
-It based on IaC (Infrastructure as Code) that helps you model and setup a complete infrastructure and related services to run your microservices.
+NGP based on IaC (Infrastructure as Code) that helps you model and setup a complete infrastructure and related services to run your microservices.
 
 Moreover, NGP is fully open source and transparent.
 
@@ -43,11 +43,11 @@ Moreover, NGP is fully open source and transparent.
             <td><a href="https://github.com/microservices-today/ecs-job/releases/tag/1.0.0">ecs-job v1.0.0</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/microservices-today/ecs-iac/releases/tag/3.0.4">ecs-iac v3.0.4</a>(Fargate)</td>
-            <td><a href="https://github.com/microservices-today/ecs-cicd/releases/tag/3.0.1">ecs-cicd v3.0.1</a></td>
-            <td><a href="https://github.com/microservices-today/ecs-api/releases/tag/2.0.2">ecs-api v2.0.2</a></td>
-            <td><a href="https://github.com/microservices-today/ecs-mq/releases/tag/2.0.1">ecs-mq v2.0.1</a></td>
-            <td><a href="https://github.com/microservices-today/ecs-job/releases/tag/2.0.0">ecs-job v2.0.0</a></td>
+            <td><a href="https://github.com/microservices-today/ecs-iac/releases/tag/3.0.5">ecs-iac v3.0.5</a>(Fargate)</td>
+            <td><a href="https://github.com/microservices-today/ecs-cicd/releases/tag/3.0.2">ecs-cicd v3.0.2</a></td>
+            <td><a href="https://github.com/microservices-today/ecs-api/releases/tag/2.1.1">ecs-api v2.1.1</a></td>
+            <td><a href="https://github.com/microservices-today/ecs-mq/releases/tag/2.0.2">ecs-mq v2.0.2</a></td>
+            <td><a href="https://github.com/microservices-today/ecs-job/releases/tag/2.0.1">ecs-job v2.0.1</a></td>
         </tr>
         <tr>
             <td rowspan=2>EKS</td>
