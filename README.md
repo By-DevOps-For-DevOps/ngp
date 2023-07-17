@@ -62,7 +62,7 @@ Moreover, NGP is fully open source and transparent.
         <tr>
             <td rowspan=4>GCP</td>
             <td rowspan=2>GKE</td>
-            <td>TBD</td>
+            <td><a href="https://github.com/By-DevOps-For-DevOps/gke-iac/releases/tag/1.0.0">gke-iac v1.0.0</a>(GKE)</td>
             <td>TBD</td>
             <td>TBD</td>
             <td>TBD</td>
